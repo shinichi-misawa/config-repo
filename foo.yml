@@ -1,3 +1,5 @@
-foo: from foo props
 app-config:
   message: hello spring io
+  foo: from foo props
+  bar: from foo props
+  hoge: from foo props
