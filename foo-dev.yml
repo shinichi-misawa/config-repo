@@ -2,3 +2,5 @@ bar: spam
 foo: from foo development
 app-config:
   message: hello from foo-dev.yaml
+  foo: FOO
+  bar: BAR
